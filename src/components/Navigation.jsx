@@ -25,7 +25,7 @@ class Navigation extends Component {
             <Nav className="me-auto">
               <Nav.Link  className = "fs-3 text-white mx-3" href="/features">Features</Nav.Link>
               <Nav.Link  className = "fs-3 text-white mx-3" href="/pricing">Pricing</Nav.Link>
-              <Nav.Link  className = "fs-3 text-white mx-3" href="/pricing">About Us</Nav.Link>
+              <Nav.Link  className = "fs-3 text-white mx-3" href="/about">About Us</Nav.Link>
             </Nav>
             <Nav>
               <Nav.Link  className = "fs-3 text-white mx-3" href="/login">Log In</Nav.Link>
